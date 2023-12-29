@@ -1,2 +1,2 @@
 # Yuelai Feng
-Yuelai Feng's Personal Website
+B.S., Computational & Systems Biology @ University of California, Los Angeles (UCLA)
