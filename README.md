@@ -1,2 +1,2 @@
-# yuelai-feng.github.io
+# Yuelai Feng
 Yuelai Feng's Personal Website
