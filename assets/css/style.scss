@@ -8,10 +8,15 @@ body {
 }
 
 a {
-  color:#4b86b4;
+  color:#5F7464;
 }
 
 a:hover, a:focus {
-  color:#2a4d69;
+  color:#243D25;
+  font-weight:inherit;
+}
+
+a:visited {
+  color: #E4AEC5;
   font-weight:inherit;
 }
