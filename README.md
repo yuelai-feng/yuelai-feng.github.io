@@ -8,4 +8,4 @@ Besides research, I also enjoy writing about science for the general public (in 
 
 In my free time, I also do photography, calligraphy, drawing, graphic designs, and other visual art-related things for fun. Check out my artsy side here.
 
-I can be reached at yuelaif@ucla.edu.
+I can be reached at yuelaif [at] ucla [dot] edu.
