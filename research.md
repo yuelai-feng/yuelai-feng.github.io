@@ -1,5 +1,9 @@
-Research Interests: 
-* 
+---
+layout: default
+---
 
-Past Projects:
-* 
+## Research Interests: 
+- 
+
+## Past Projects:
+- 
