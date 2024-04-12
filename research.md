@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Research Interests: 
+### Research Interests: 
 - 
 
-## Past Projects:
+### Past Projects:
 - 
