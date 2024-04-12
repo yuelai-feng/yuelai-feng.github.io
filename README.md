@@ -9,6 +9,4 @@ Born and raised in Shanghai, China, I graduated from UCLA with a Bachelor's degr
 ### Research Interests  
 I am interested in the neural algorithms underlying our fundamental living experience: memory, learning, spatiotemporal perception, abstraction, and decision making.
 
-Besides research, I also enjoy writing about science for the general public (in English and in Chinese). Read my science writing and translation works here.
-
-In my free time, I also do photography, calligraphy, drawing, graphic designs, and other visual art-related things for fun.
+When I'm not doing research, I enjoy traveling, [taking photos](https://photos.app.goo.gl/N9PXKGZJmQzVzKk39), calligraphy/doodling, and reading about neuroscience.
