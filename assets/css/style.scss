@@ -16,6 +16,10 @@ p, ul, ol, table, pre, dl {
   color:#595959;
 }
 
+li::marker {
+  color: #3366CC;
+}
+
 a {
   color:#3366CC;
 }
