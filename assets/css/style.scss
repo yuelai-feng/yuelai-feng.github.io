@@ -17,7 +17,7 @@ p, ul, ol, table, pre, dl {
 }
 
 li::marker {
-  color: #3366CC;
+  color:#3366CC;
 }
 
 a {
@@ -27,4 +27,9 @@ a {
 a:hover, a:focus {
   color:#03369c;
   font-weight:inherit;
+}
+
+.wrapper {
+  width:500px;
+  margin:0 auto;
 }
