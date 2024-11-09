@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
+
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,6 +13,7 @@
     <![endif]-->
     {% include head-custom.html %}
   </head>
+
   <body>
     <div class="wrapper">
       <header>
@@ -29,16 +31,18 @@
         <p><a href="https://scholar.google.com/citations?user=Dn6bwtwAAAAJ&hl=en" target="_blank">Google Scholar</a> | 
           <a href="https://www.linkedin.com/in/yuelai-feng" target="_blank">LinkedIn</a></p>
 
-        <p><a href="https://yuelai-feng.github.io/assets/files/cv.pdf" target="_blank">Curriculum Vitae</a></p>
+        <p><a href="https://yuelai-feng.github.io/assets/files/cv.pdf" target="_blank">CV</a></p>
 
         <p><a href="https://photos.app.goo.gl/N9PXKGZJmQzVzKk39" target="_blank">Photography</a></p>
         
       </header>
+
       <section>
 
       {{ content }}
 
       </section>
+      
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
@@ -48,4 +52,5 @@
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
+
 </html>
