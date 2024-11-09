@@ -4,16 +4,23 @@
 @import "jekyll-theme-minimal";
 
 body {
-  font: 14px/1.5 "Helvetica Neue", Arial, sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", 
-     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 15px/1.5 'Helvetica Neue', Arial, sans-serif;
+  color:#595959;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:#222;
+}
+
+p, ul, ol, table, pre, dl {
   color:#595959;
 }
 
 a {
-  color:#5F7464;
+  color:#3366CC;
 }
 
 a:hover, a:focus {
-  color:#243D25;
+  color:#03369c;
   font-weight:inherit;
 }
