@@ -10,4 +10,3 @@ Besides research, I also enjoy traveling, making travel plans, [taking photos](h
 
 ---
 
-What's up?
