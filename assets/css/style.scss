@@ -4,16 +4,18 @@
 @import "jekyll-theme-minimal";
 
 body {
-  font: 15px/1.5 'Helvetica Neue', Arial, sans-serif;
-  color:#595959;
+  font: 16px/1.5 'Helvetica Neue', Arial, sans-serif;
+  color:#333333;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#333333;
+  font:'Baskerville', 'Times New Roman', serif;
+  font-style:italic;
 }
 
 p, ul, ol, table, pre, dl {
-  color:#595959;
+  color:#333333;
 }
 
 li::marker {
