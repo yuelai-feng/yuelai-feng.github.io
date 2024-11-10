@@ -1,4 +1,6 @@
-# About Me
+# *Hello! Welcome.*
+
+## About Me
 
 My name is Yuelai Feng (冯越来); I also go by Mollie. 
 
