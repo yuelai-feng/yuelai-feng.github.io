@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# CV
+# *Curriculum Vitae*
 
 > See PDF version [here](https://yuelai-feng.github.io/assets/files/cv.pdf).
 
