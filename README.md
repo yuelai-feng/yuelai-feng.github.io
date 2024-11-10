@@ -1,7 +1,5 @@
 # *Hello! Welcome.*
 
-## About Me
-
 My name is Yuelai Feng (冯越来); I also go by Mollie. 
 
 Currently, I am a research technician at [Jazayeri Lab](http://jazlab.org) at [MIT McGovern Institute for Brain Research](https://mcgovern.mit.edu/). Before that, I completed my B.S. in computational and systems biology at [UCLA](https://www.ucla.edu/).
