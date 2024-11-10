@@ -29,18 +29,27 @@ a:hover, a:focus {
   font-weight:inherit;
 }
 
-.wrapper {
-  width:950px;
-}
-
-header {
-  width:270px;
-}
-
-section {
-  width:600px;
-}
-
 img {
   margin-bottom: 20px;
+}
+
+@media print, screen and (max-width: 960px) {
+
+  .wrapper {
+    width: 90%;
+  }
+
+  header, section, footer {
+    width: 100%;
+  }
+
+  header {
+    padding-right: 100px;
+  }
+
+  header ul {
+    position: absolute;
+    right: 20px;
+    top: 52px;
+  }
 }
