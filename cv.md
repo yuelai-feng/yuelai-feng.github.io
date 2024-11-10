@@ -7,19 +7,19 @@ layout: default
 
 ## Education
 
-- **B.S. Computational and Systems Biology** | University of California, Los Angeles
+- **B.S. Computational and Systems Biology** · University of California, Los Angeles
 
 ## Research Experience
 
-- **Researcher, W. M. Keck Center for Neurophysics at UCLA** | Jan 2023 – Jun 2024
+- **Researcher, W. M. Keck Center for Neurophysics at UCLA** · Jan 2023 – Jun 2024
   - Advisor: [Dr. Mayank Mehta](https://mayank.pa.ucla.edu/)
   - Project: Multi-sensory mechanism of hippocampal spatial selectivity
 
-- **Research Assistant, UCLA Department of Neurobiology** | Sep 2021 – Aug 2022
+- **Research Assistant, UCLA Department of Neurobiology** · Sep 2021 – Aug 2022
   - Advisors: Dr. Ayal Lavi, [Dr. Alcino Silva](https://silvalab.neurobio.ucla.edu/)
   - Project: Cellular mechanism of memory allocation in mice
 
-- **Researcher, Zhongshan Hospital of Fudan University, China** | Mar 2019 – Jun 2020
+- **Researcher, Zhongshan Hospital of Fudan University, China** · Mar 2019 – Jun 2020
   - Advisor: Dr. Chang Jiang
   - Project: Neuroprotective effect of *Apocynum venetum* leaf extract
 
