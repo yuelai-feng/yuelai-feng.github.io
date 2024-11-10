@@ -33,23 +33,22 @@ img {
   margin-bottom: 20px;
 }
 
-@media print, screen and (max-width: 1200px) {
+section {
+  width:800px;
+}
+
+@media print, screen and (max-width: 2800px) {
 
   .wrapper {
-    width: 90%;
+    width:auto;
   }
 
   header, section, footer {
-    width: 100%;
+    width:100%;
   }
 
   header {
-    padding-right: 100px;
+    padding-right:10px;
   }
 
-  header ul {
-    position: absolute;
-    right: 20px;
-    top: 52px;
-  }
 }
