@@ -5,9 +5,3 @@ I am currently a research technician at [Jazayeri Lab](http://jazlab.org) at [MI
 I am boardly interested in how neural dynamics give rise to animals' flexible minds and behaviors. I am especially interested in topics of memorization, learning, and generalization.
 
 Besides research, I also enjoy traveling, making travel plans, [taking photos](https://photos.app.goo.gl/N9PXKGZJmQzVzKk39), writing calligraphy on greeting cards, and playing tennis.
-
----
-
-## Research Projects
-
-## Posts
