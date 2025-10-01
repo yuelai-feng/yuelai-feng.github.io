@@ -6,4 +6,4 @@ layout: default
 coming soon!
 
 ---
-[back](https://yuelai-feng.github.io)
+[back](../)
