@@ -1,10 +1,9 @@
-# *About*
+# *about*
 
-My name is 冯越来 (fung-yueh-lie). I usually go by Mollie in real life because it requires less explanation. Also, nobody really calls me by my first name in China (it's either my full name or other nicknames) and I grew up having this English name, so Mollie actually feels more natural to me!
+My name is 冯越来 (fung-yueh-lie). I usually go by Mollie.
 
-I grew up in Shanghai, China. In 2021, after completing my freshman year fully online, I moved to the US for college. I completed my bachelor's degree in computational and systems biology at [UCLA](https://www.ucla.edu/). Currently, I'm a research technician at [Jazayeri Lab](http://jazlab.org) at [MIT McGovern Institute for Brain Research](https://mcgovern.mit.edu/).
+I'm currently a research technician at [Jazayeri Lab](http://jazlab.org) at [MIT's McGovern Institute](https://mcgovern.mit.edu/). I completed my bachelor's degree in computational and systems biology at [UCLA](https://www.ucla.edu/).
 
-I am boardly interested in how neural dynamics give rise to flexible minds and behaviors. I am especially interested in topics of memorization, learning, and generalization.
+As a neuroscientist in training, I'm broadly interested in how neural dynamics give rise to higher cognition and flexible behavior. More specifically, I'd like to explore how memory and knowledge is acquired, maintained, and used in the brain. 
 
-Besides research, I also enjoy traveling, making travel plans, [taking photos](https://photos.app.goo.gl/N9PXKGZJmQzVzKk39), writing calligraphy on greeting cards, and playing tennis.
-
+In my free time, I enjoy traveling, [taking photos](https://photos.app.goo.gl/N9PXKGZJmQzVzKk39), practicing calligraphy, and playing tennis.
