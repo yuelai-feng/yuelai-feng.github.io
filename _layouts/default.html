@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,8 +15,8 @@
 
   <body>
     <div class="wrapper">
+      
       <header>
-
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         <p>{{ site.description | diefault: site.github.project_tagline }}</p>
@@ -32,15 +31,12 @@
           <a href="https://www.linkedin.com/in/yuelai-feng" target="_blank">LinkedIn</a></p>
 
         <p><a href="https://yuelai-feng.github.io/assets/files/cv.pdf" target="_blank">CV</a></p>
-        
       </header>
 
       <section>
-
-      {{ content }}
-
+        {{ content }}
       </section>
-
+      
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
