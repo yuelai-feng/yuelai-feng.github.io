@@ -1,4 +1,9 @@
 ---
 layout: default
 ---
-# *coming soon!*
+# *research*
+
+coming soon!
+
+---
+[back](./)
