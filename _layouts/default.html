@@ -17,16 +17,15 @@
     <div class="wrapper">
       
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p><a href="https://yuelai-feng.github.io/research">research</a></p>
+        <h1 style="margin-bottom:0.25em;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <p style="margin-top:0.25em;">{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p><a href="mailto:yuelaif@mit.edu" target="_blank">yuelaif [at] mit [dot] edu</a></p>
+        <p><a href="mailto:yuelaif@mit.edu" target="_blank">yuelaif [at] mit [dot] edu</a> </p>
+
         <p><a href="https://yuelai-feng.github.io/assets/files/cv.pdf" target="_blank">cv</a> | 
           <a href="https://scholar.google.com/citations?user=Dn6bwtwAAAAJ&hl=en" target="_blank">google scholar</a></p>
       </header>
