@@ -1,13 +1,9 @@
 ---
-layout: post
+layout: default
 title: "research"
-date: 2026-04-04
-author: "Jane Doe"
-tags:
-    - test
 ---
 
-hello!
+coming soon!
 
 ---
 [back](../)
