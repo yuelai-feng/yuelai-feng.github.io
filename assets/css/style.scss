@@ -1,7 +1,6 @@
 ---
 ---
-
-@import "{{ site.theme }}";
+@import "jekyll-theme-minimal";
 
 body {
   background-color:#fafafa;
@@ -11,7 +10,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-
   color:#333333;
 }
 
@@ -33,5 +31,5 @@ a:hover, a:focus {
 }
 
 img {
-  margin-bottom:20px;
+  margin-bottom: 20px;
 }
