@@ -1,10 +1,13 @@
 ---
 layout: post
-title: research
-date: "4 April 2026"
-author: Yuelai Feng
+title: "research"
+date: 2026-04-04
+author: "Jane Doe"
+tags:
+    - test
 ---
-coming soon!
+
+hello!
 
 ---
 [back](../)
