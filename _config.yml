@@ -8,13 +8,13 @@ affiliation_link: https://jazlab.org/
 email: yuelaif (at) mit.edu
 
 # Search Engine Optimization (SEO)
-keywords: 
+keywords: yuelai feng, mollie feng
 description: Yuelai (Mollie) Feng's personal website.
 canonical: https://yuelai-feng.github.io
 
 # Links 
 google_scholar: https://scholar.google.com/citations?user=Dn6bwtwAAAAJ&hl=en&authuser=2&oi=ao
-cv_link: ./assets/files/cv.pdf
+github_link: https://github.com/yuelai-feng
 linkedin: https://www.linkedin.com/in/yuelai-feng/
 
 # Images (e.g., your profile picture and your website's favicon) 
