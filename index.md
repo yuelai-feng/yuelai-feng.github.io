@@ -11,9 +11,10 @@ As a neuroscientist in training, I'm broadly interested in how neural dynamics g
 
 In my free time, I enjoy traveling, [taking photos](https://photos.app.goo.gl/N9PXKGZJmQzVzKk39){:target="_blank"}, practicing calligraphy, and playing tennis.
 
-# news
-- **[Nov 2025]** I presented a poster at [SfN 2025](https://www.sfn.org/meetings/neuroscience-2025){:target="_blank"}!
-- **[Aug 2024]** I joined [Jazayeri Lab](http://jazlab.org){:target="_blank"} at MIT as a research technician :D
 
-# publications
+# news
+- **Nov 2025** - I presented a poster at [SfN 2025](https://www.sfn.org/meetings/neuroscience-2025){:target="_blank"}!
+- **Aug 2024** - I joined [Jazayeri Lab](http://jazlab.org){:target="_blank"} at MIT as a research technician :D
+
+
 {% include_relative _includes/publications.md %}
