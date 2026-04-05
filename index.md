@@ -15,4 +15,5 @@ In my free time, I enjoy traveling, [taking photos](https://photos.app.goo.gl/N9
 - **[Nov 2025]** I presented a poster at [SfN 2025](https://www.sfn.org/meetings/neuroscience-2025){:target="_blank"}!
 - **[Aug 2024]** I joined [Jazayeri Lab](http://jazlab.org){:target="_blank"} at MIT as a research technician :D
 
+# publications
 {% include_relative _includes/publications.md %}
