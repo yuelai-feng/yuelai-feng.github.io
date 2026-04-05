@@ -4,14 +4,14 @@
 @import "minimal-light";
 
 body {
-  background-color:#fafafa;
   font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2 {
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-style: italic;
 }
 
-a:hover, a:focus {
-  font-weight:inherit;
+h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
