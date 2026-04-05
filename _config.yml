@@ -1,7 +1,7 @@
 remote_theme: yaoyao-liu/minimal-light
 
 # Basic Information 
-title: Yuelai Mollie Feng
+title: Yuelai (Mollie) Feng
 position: Research Technician
 affiliation: JazLab @ MIT McGovern
 affiliation_link: https://jazlab.org/
@@ -16,6 +16,7 @@ canonical: https://yuelai-feng.github.io
 google_scholar: https://scholar.google.com/citations?user=Dn6bwtwAAAAJ&hl=en&authuser=2&oi=ao
 github_link: https://github.com/yuelai-feng
 linkedin: https://www.linkedin.com/in/yuelai-feng/
+neurotree: https://neurotree.org/neurotree/tree.php?pid=933390
 
 # Images (e.g., your profile picture and your website's favicon) 
 avatar: ./assets/img/profile.jpg
