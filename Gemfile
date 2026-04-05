@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3"
-gem "csv"        # add this too, fixes the csv warning
-
+gem "github-pages", "~> 228", group: :jekyll_plugins
+gem "jekyll-feed", "~> 0.12"
+gem "csv"
 gem "webrick", "~> 1.8"
