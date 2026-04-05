@@ -2,3 +2,15 @@
 ---
 
 @import "minimal-light";
+
+body {
+    background-color: #fff;
+    padding:50px;
+    font: "Helvetica Neue", Arial, sans-serif;
+    color:#595959;
+    font-weight:400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
