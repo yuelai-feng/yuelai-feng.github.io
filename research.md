@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: "research"
+
 ---
+# research
 
 coming soon!
 

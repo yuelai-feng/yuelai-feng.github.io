@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: "about"
 ---
+# about
 
 My name is 冯越来 (fung-yueh-lie). I usually go by Mollie.
 
