@@ -4,7 +4,7 @@ layout: homepage
 ## research
 ---
 
-I'm broadly interested in how neural dynamics give rise to intelligent, flexible behavior. More specifically, I'd like to understand how memory and knowledge is acquired, maintained, and used in the brain to support such behavior.
+I'm broadly interested in how neural dynamics give rise to flexible, intelligent behavior. More specifically, I'd like to understand how memory and knowledge is acquired, maintained, and used in the brain to support such behavior.
 
 ### projects
 
