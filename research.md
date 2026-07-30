@@ -14,5 +14,13 @@ I'm broadly interested in how neural dynamics give rise to flexible, intelligent
 
 - **Feng, Y.**, Jiang, C., Yang, F., Chen, Z., & Li, Z. (2020). [Apocynum venetum leaf extract protects against H2O2-induced oxidative stress by increasing autophagy in PC12 cells](https://www.spandidos-publications.com/10.3892/br.2020.1313/download). *Biomedical Reports*
 
+### posters & presentations
+
+- **Feng, Y.**, Sung, H., Jazayeri, M. (2025, November). Perturbing the brain to investigate the neural mechanisms of internal error detection (Poster). *Society for Neuroscience*, San Diego, CA, United States.
+
+- **Feng, Y.**, & Mehta, M. R. (2024, May). Multi-sensory mechanism of hippocampal spatial selectivity (Presentation). *UCLA Undergraduate Research Week*, Los Angeles, CA, United States.
+
+- Ying, L., **Feng, Y.**, Hegde, R., Jha, S., & Mehta, M. R. (2024, April). Rats watching movies: Higher-order neural representation of continuous visual sequences in the rat hippocampus (Poster). *California Neurotechnology Symposium*, Davis, CA, United States.
+
 ---
 [back](../)
