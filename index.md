@@ -5,7 +5,7 @@ layout: homepage
 
 My name is 冯越来 (fung-yueh-lie). I usually go by Mollie.
 
-As a neuroscientist in training, I'm broadly interested in how neural dynamics give rise to flexible, intelligent behavior. I'm an incoming neuroscience PhD student at [NYU](https://as.nyu.edu/departments/cns.html){:target="_blank"}. Previoiusly, I worked as a research technician in the [Jazayeri Lab](http://jazlab.org){:target="_blank"} at [MIT](https://bcs.mit.edu/){:target="_blank"}. Before that, I completed my Bachelor's degree in computational and systems biology at [UCLA](https://casb.ucla.edu/){:target="_blank"}.
+As a neuroscientist in training, I'm broadly interested in how neural dynamics give rise to flexible, intelligent behavior. I'm currently a neuroscience PhD student at [NYU](https://as.nyu.edu/departments/cns.html){:target="_blank"}. Previously, I worked as a research technician in the [Jazayeri Lab](http://jazlab.org){:target="_blank"} at [MIT](https://bcs.mit.edu/){:target="_blank"}. Before that, I completed my Bachelor's degree in computational and systems biology at [UCLA](https://casb.ucla.edu/){:target="_blank"}.
 
 In my free time, I enjoy traveling, [taking photos](https://photos.app.goo.gl/N9PXKGZJmQzVzKk39){:target="_blank"}, practicing calligraphy, watching movies, and playing tennis.
 
@@ -13,6 +13,6 @@ In my free time, I enjoy traveling, [taking photos](https://photos.app.goo.gl/N9
 
 ## news
 
-- Sep 2026 - I'll be joining [NYU Center for Neural Science](https://as.nyu.edu/departments/cns.html){:target="_blank"} as a PhD student
+- Sep 2026 - I joined [NYU Center for Neural Science](https://as.nyu.edu/departments/cns.html){:target="_blank"} as a PhD student
 - Nov 2025 - I presented my first poster at [SfN 2025](https://www.sfn.org/meetings/neuroscience-2025){:target="_blank"}
 - Aug 2024 - I joined [Jazayeri Lab](http://jazlab.org){:target="_blank"} at MIT as a research technician
