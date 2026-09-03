@@ -1,12 +1,12 @@
 ---
 layout: homepage
 ---
-## cv
+## curriculum vitae
 ---
 
 ### Education
 
-- **Ph.D., Neuroscience**, New York University (2026-?) 
+- **Ph.D., Neural Science**, New York University (2026-?) 
 - **B.S. Computational & Systems Biology**, Univ of California Los Angeles (2020-2024)
 
 ### Research Position
