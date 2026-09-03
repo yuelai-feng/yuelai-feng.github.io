@@ -20,8 +20,8 @@ neurotree: https://neurotree.org/neurotree/tree.php?pid=933390
 
 # Images (e.g., your profile picture and your website's favicon) 
 avatar: /assets/img/profile.jpg
-favicon: /favicon.ico
-favicon_dark: /favicon.ico
+favicon: /assets/img/favicon.ico
+favicon_dark: /assets/img/favicon.ico
 
 # Footnote
 enable_footnote: false
