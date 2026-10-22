@@ -6,9 +6,9 @@ layout: homepage
 
 I love designing and building things too!
 
-### MonkeyTackle
+### STRING
 
-MonkeyTackle is a retractor system that allows for low-profile skin retraction in all directions in stereotaxic chamber implant surgeries. [GitHub](https://github.com/yuelai-feng/MonkeyTackle){:target="_blank"}
+STRING is a retractor system that allows for low-profile skin retraction in all directions in stereotaxic cranial implant surgeries. [GitHub](https://github.com/yuelai-feng/STRING-retractor){:target="_blank"}
 
 ### JuiceBox
 
